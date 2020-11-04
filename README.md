@@ -5,15 +5,20 @@
 In this project my aim is to play with the selected datasets, generate plots and animations and improve my data visualization skills.
 
 ### Main features developed:
-*   Plot daily/cumulative data** of signle country; ![img1](IMG1-Single-country-plots.png)
-*   Plot Comparative daily/cumulative data** of multiple countries; ![img2](IMG2-Multiple-countries-plot.png)
+*   Plot daily/cumulative data** of signle country;  
+![img1](IMG1-Single-country-plots.png)
+*   Plot Comparative daily/cumulative data** of multiple countries;  
+![img2](IMG2-Multiple-countries-plot.png)
 *   Plot a pie chart of the data*;  
 ![img3](IMG3-Pie-global-countries.png)
-*   Plot a bar chart of data*** w.r.t. country population; ![img4](IMG4-Bar-global-countries.png)
+*   Plot a bar chart of data*** w.r.t. country population;  
+![img4](IMG4-Bar-global-countries.png)
 *   Generate an animation of a pie chart of the data** from Jan to today;
 *   Generate an animation of a bar chart of the data*** from Jan to today;
-*   Plot color filled single country plot with cases & deaths together; ![img5](IMG5-Filled-plot-single-country.png)
-*   Plot comparative daily/cumulative N-days running averaged data** of a single country; ![img6](IMG6-Multiple-countries-RAVG-plot.png)
+*   Plot color filled single country plot with cases & deaths together;  
+![img5](IMG5-Filled-plot-single-country.png)
+*   Plot comparative daily/cumulative N-days running averaged data** of a single country;  
+![img6](IMG6-Multiple-countries-RAVG-plot.png)
 
 (\*\*) Refers to: confirmed, deaths and recovered cases  
 (\*\*\*) Refers to: confirmed, deaths and recovered cases + usage of population data  
