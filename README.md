@@ -7,7 +7,8 @@ In this project my aim is to play with the selected datasets, generate plots and
 ### Main features developed:
 *   Plot daily/cumulative data** of signle country; ![img1](IMG1-Single-country-plots.png)
 *   Plot Comparative daily/cumulative data** of multiple countries; ![img2](IMG2-Multiple-countries-plot.png)
-*   Plot a pie chart of the data*; ![img3](IMG3-Pie-global-countries.png)
+*   Plot a pie chart of the data*;  
+![img3](IMG3-Pie-global-countries.png)
 *   Plot a bar chart of data*** w.r.t. country population; ![img4](IMG4-Bar-global-countries.png)
 *   Generate an animation of a pie chart of the data** from Jan to today;
 *   Generate an animation of a bar chart of the data*** from Jan to today;
