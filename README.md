@@ -11,7 +11,7 @@ In this project my aim is to play with the selected datasets, generate plots and
 ![img5](IMG5-Filled-plot-single-country.png)
 *   Plot comparative daily/cumulative data** of multiple countries;  
 ![img2](IMG2-Multiple-countries-plot.png)
-*   Plot comparative daily/cumulative N-days running averaged data** of a multiple countries;  
+*   Plot comparative daily/cumulative N-days running averaged data** of multiple countries;  
 ![img6](IMG6-Multiple-countries-RAVG-plot.png)
 *   Plot a pie chart of the data*;  
 ![img3](IMG3-Pie-global-countries.png)
@@ -34,4 +34,4 @@ In this project my aim is to play with the selected datasets, generate plots and
 ### Repository structure:
 * Code of the project available in two versions: .py & .ipynb (it is suggested to work on *Google Colaboratory* as I did and it is guaranteed to work);
 * A local copy of the population dataset that for simplicity is in this repository to be automatically imported while running the code;
-* README.md file and possibly some images used for this presentation;
+* README.md file and the images used for this presentation;
