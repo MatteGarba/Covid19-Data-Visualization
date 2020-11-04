@@ -9,9 +9,9 @@ In this project my aim is to play with the selected datasets, generate plots and
 ![img1](IMG1-Single-country-plots.png)
 *   Plot color filled single country plot with cases & deaths together;  
 ![img5](IMG5-Filled-plot-single-country.png)
-*   Plot Comparative daily/cumulative data** of multiple countries;  
+*   Plot comparative daily/cumulative data** of multiple countries;  
 ![img2](IMG2-Multiple-countries-plot.png)
-*   Plot comparative daily/cumulative N-days running averaged data** of a single country;  
+*   Plot comparative daily/cumulative N-days running averaged data** of a multiple countries;  
 ![img6](IMG6-Multiple-countries-RAVG-plot.png)
 *   Plot a pie chart of the data*;  
 ![img3](IMG3-Pie-global-countries.png)
